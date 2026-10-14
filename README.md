@@ -108,8 +108,3 @@ These are recommendations from the project report, not claims of measured busine
 - Using SQL to analyze purchasing behavior and customer segments
 - Presenting findings through Power BI
 - Turning analytical findings into business recommendations
-
-## Author
-
-**Rohan**  
-Aspiring Data Analyst | Python • SQL • Power BI • Excel
